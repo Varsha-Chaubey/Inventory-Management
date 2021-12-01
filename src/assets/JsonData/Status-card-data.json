@@ -1,0 +1,23 @@
+[
+    {
+        "icon": "bx bx-shopping-bag",
+        "count": "1,995",
+        "title": "Total sales"
+    },
+    {
+        "icon": "bx bx-cart",
+        "count": "150",
+        "title": "Total orders"
+    },
+    {
+        "icon": "bx bx-package",
+        "count": "200",
+        "title": "Total Stock"
+    },
+    {
+        "icon": "bx bx-rupee",
+        "count": "2,632",
+        "title": "Total Stock Value"
+    }
+    
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Bill",
+        "route": "/bill",
+        "icon": "bx bx-rupee"
+    },
+    {
+        "display_name": "View Orders",
+        "route": "/orders",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "View Stocks",
+        "route": "/stocks",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Add Stock",
+        "route": "/addstock",
+        "icon": "bx bx-plus-circle"
+    },
+    {
+        "display_name": "brand",
+        "route": "/brand",
+        "icon": "bx bx-gift"
+    },
+    {
+        "display_name": "categories",
+        "route": "/categories",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "inventory",
+        "route": "/inventory",
+        "icon": "bx bx-store-alt"
+    },
+    {
+        "display_name": "size",
+        "route": "/size",
+        "icon": "bx bx-label"
+    },
+    {
+        "display_name": "settings",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]

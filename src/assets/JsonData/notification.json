@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "Manish Tivari's status pending"
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "25 stocks out"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "50 new orders have arrived"
+    },
+    {
+        "icon": "bx bx-user",
+        "content": "10 new online customers are recently joined"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "20 new online orders have arrived"
+    }
+]
